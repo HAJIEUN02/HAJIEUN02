@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=egg&color=BCD9FF&text=WELCOME💙&section=header&fontColor=ffffff&fontSize=50&animation=twinkling)
 
-### Hi there 👋
-
 <br><br>
 
 #### ✏Once I've Used..
