@@ -22,7 +22,7 @@
 
 #### 📚Study Log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hajieun02)](https://velog.io/@hajieun02) <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hajieun02)](https://github.com/hajieun02/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hajieun02)](https://velog.io/@hajieun02)
 
 </div>
 
